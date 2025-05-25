@@ -1,7 +1,7 @@
 def hello(name):
   print(f'Welcome {name}')
 
-def exit():
+def exit();
   return
 
 hello('Monesy')
