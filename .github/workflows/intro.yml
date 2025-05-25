@@ -8,5 +8,5 @@ jobs:
       - name: 23f1003132@ds.study.iitm.ac.in
         run: echo "Hello, world!"
       - name: function_test
-        run: main.py
+        run: python main.py
       
